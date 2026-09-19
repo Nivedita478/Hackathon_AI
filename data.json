@@ -1,0 +1,72 @@
+[
+  {
+    "id": "K01",
+    "topic": "soil carbon",
+    "condition": "low organic carbon",
+    "action": "Use legume cover crops and retain crop residues.",
+    "reason": "Organic inputs can increase soil organic matter and improve soil structure and moisture retention.",
+    "metrics": ["organic carbon", "soil moisture", "soil biodiversity"],
+    "time": "3-12 months",
+    "source": "FAO soil management guidance"
+  },
+  {
+    "id": "K02",
+    "topic": "soil moisture",
+    "condition": "low soil moisture",
+    "action": "Increase soil cover using mulch and drought-tolerant native vegetation.",
+    "reason": "Vegetative and residue cover can reduce direct soil evaporation and improve water retention.",
+    "metrics": ["soil moisture", "soil temperature", "plant survival"],
+    "time": "1-6 months",
+    "source": "FAO soil and water conservation guidance"
+  },
+  {
+    "id": "K03",
+    "topic": "biodiversity",
+    "condition": "low species richness",
+    "action": "Introduce native flowering strips and mixed vegetation.",
+    "reason": "Habitat and vegetation diversity can provide food and shelter for a wider range of organisms.",
+    "metrics": ["species richness", "pollinator habitat", "habitat diversity"],
+    "time": "6-24 months",
+    "source": "IPBES biodiversity assessment"
+  },
+  {
+    "id": "K04",
+    "topic": "monoculture",
+    "condition": "monoculture",
+    "action": "Introduce crop rotation and intercropping with compatible species.",
+    "reason": "Diversification can increase habitat heterogeneity and reduce dependence on a single crop system.",
+    "metrics": ["species richness", "habitat diversity", "soil health"],
+    "time": "6-18 months",
+    "source": "FAO agroecology resources"
+  },
+  {
+    "id": "K05",
+    "topic": "habitat fragmentation",
+    "condition": "high deforestation",
+    "action": "Create native vegetation corridors between fragmented habitat patches.",
+    "reason": "Connectivity can improve movement between habitat patches and support ecological processes.",
+    "metrics": ["habitat connectivity", "species richness", "biodiversity"],
+    "time": "1-5 years",
+    "source": "IPBES biodiversity assessment"
+  },
+  {
+    "id": "K06",
+    "topic": "pollution",
+    "condition": "high pollution",
+    "action": "Establish vegetated buffer zones around water channels.",
+    "reason": "Vegetated buffers can intercept sediment and some pollutants before they reach aquatic systems.",
+    "metrics": ["water quality", "aquatic biodiversity", "pollution"],
+    "time": "6-24 months",
+    "source": "US EPA watershed guidance"
+  },
+  {
+    "id": "K07",
+    "topic": "heat stress",
+    "condition": "high temperature",
+    "action": "Increase native vegetation cover and maintain shaded habitat patches.",
+    "reason": "Vegetation can modify local microclimates and provide thermal refuge for organisms.",
+    "metrics": ["temperature stress", "habitat quality", "species survival"],
+    "time": "1-3 years",
+    "source": "IPCC climate adaptation literature"
+  }
+]
